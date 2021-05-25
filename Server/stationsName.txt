@@ -1,0 +1,504 @@
+01	TBM	Tambaram	Tambaram
+02	MS	Chennai Egmore	Chennai Egmore
+03	MAS	Puratchi Thalaivar Dr. MGR Central	Chennai
+04	KPD	Katpadi Junction	Katpadi,Vellore
+05	AJJ	Arakkonam Junction	Arakkonam
+06	CBE	Coimbatore Junction	Coimbatore
+07	CGL	Chengalpattu Junction	Chengalpattu
+08	MDU	Madurai Junction	Madurai
+09	JTJ	Jolarpettai Junction	Jolarpettai
+10	SA	Salem Junction	Salem
+11	ED	Erode Junction	Erode
+12	TUP	Tiruppur	Tiruppur
+13	VM	Villupuram Junction	Villupuram
+14	TPJ	Tiruchirappalli	Tiruchirapalli
+15	DG	Dindigul Junction	Dindigul
+16	PER	Perambur	Perambur
+17	TJ	Thanjavur Junction	Thanjavur
+18	TEN	Tirunelveli Junction	Tirunelveli
+19	NCJ	Nagercoil Junction	Nagercoil
+20	TRL	Tiruvallur	Tiruvallur
+21	AVD	Avadi	Avadi
+22	PRGL	Perungulattur	Perungulattur
+23	RMM	Rameswaram	Rameswaram
+24	GI	Guduvancheri	Guduvancheri
+25	TN	Tuticorin	Tuticorin
+26	VPT	Virudunagar Junction	Virudunagar
+27	CVP	Kovilpatti	Kovilpatti
+28	KRR	Karur Junction	Karur
+29	MV	Mayiladuturai Junction	Mayiladuturai
+30	KMU	Kumbakonam	Kumbakonam
+31	TRT	Tiruttani	Tiruttani
+32	HSRA	Hosur	Hosur
+33	RMD	Ramanathapuram	Ramanathapuram
+34	NGT	Nagappattinam Junction	Nagappattinam
+35	MTP	Mettupalayam	Metupalaiyam
+36	SKL	Singaperumal Koil	Singaperumal Koil
+37	CAPE	Kanniyakumari	Kanyakumari
+38	SRT	Satur	Satur
+39	MLMR	Melmaruvathur	Melmaruvattur
+40	KQN	Kodai road	Kodai road
+41	MEJ	Vanchi Maniyachchi Junction	Maniyachchi
+42	TMV	Tindivanam	Tindivanam
+43	VLY	Valliyur	Valliyur
+44	VN	Vaniyambadi	Vaniyambadi
+45	MNM	Manamadurai Junction	Maanamadurai
+46	WJR	Walajah Road Junction	Walajah Road
+47	GYM	Gudiyattam	Gudiyattam
+48	PMK	Paramakkudi	Paramakkudi
+49	KZT	Kuzhithurai	Marthandam
+50	KKDI	Karaikkudi Junction	Karaikkudi
+51	PDKT	Pudukkottai	Pudukkottai
+52	DKO	Devakottai Road	Devakottai Road
+53	SVGA	Sivaganga	Sivaganga
+54	ERL	Eraniel	Eraniel
+55	TSI	Tenkasi Junction	Tenkasi
+56	SNKL	Sankarankovil	Sankarankovil
+57	RJPM	Rajapalayam	Rajapalayam
+58	SDN	Sholavandan	Sholavandan
+59	KDNL	Kadayanallur	Kadaynallur
+60	NNN	Nanguneri	Nanguneri
+61	SVKS	Sivakasi	Sivakasi
+62	SVPR	Srivilliputtur	Srivilliputtur
+63	SCT	Sengottai	Sengottai
+64	TMQ	Tirumangalam	Tirumangalam
+65	PLNI	Palani	Palani
+66	TTL	Tiruttangal	Tiruttangal
+67	CJ	Kanchipuram	Kanchipuram
+68	POY	Pollachi Junction	Pollachi
+69	TDN	Tirupparankundram	Tiruparankndrm
+70	ASD	Ambasamudram	Ambasamudram
+71	ODC	Oddanchatram	Oddanchatram
+72	NZT	Nazareth	Nazareth
+73	VDR	Vandalur	Vandalur
+74	TCN	Tiruchendur	Tiruchendur
+75	MMM	Mandapam	Mandapam
+76	MCN	Mukundarayapuram	Mukundarayapuram
+77	MVN	Milavittan	Thoothukudi
+78	KDU	Kadambur	Kadambur
+79	MPA	Manaparai	Manaparai
+80	MMK	Madurantakam	Madurantakam
+81	CTND	Chettinad	Chettinad
+82	AAY	Aralvaymozhi	Aralvaymozhi
+83	UDT	Udumalaipettai	
+84	PBKS	Pambakovil Shandy	PMBAKVL_SHANDY
+85	SMD	Cheranmahadevi	Cheranmahadevi
+86	SVV	Srivaikuntam	Srivaikuntam
+87	KZB	Kurumbur	Kurumbur
+88	NPK	North Panakudi	North Panakudi
+89	KZY	Kayalpattinam	Arumuganeri
+90	ABI	Ambaturai	Ambaturai
+91	API	Akkaraippatti	Akkaraippatti
+92	PBM	Pamban	Pamban
+93	CHPT	Chatrappatti	Chatrappatti
+94	NKK	Narikkudi	Narikkudi
+95	TCH	Tiruchchuli	Tiruchchuli
+96	SDNR	Seydunganallur	Seydunganallur
+97	ANY	Arumuganeri	Arumuganeri
+98	PCM	Pavurchatram	Pavurchatram
+99	KAL	Kallal	Kallal
+100	KLPM	Kailasapuram	Kailasapuram
+101	KKY	Kizhakadaiyam	Kizhakadaiyam
+102	KON	Kudalnagar	Kudalnagar
+103	VDM	Vadamadura	Vadamadura
+104	VDP	Vadippatti	Vadippatti
+105	KRUR	Keeranur	Keeranur
+106	PNGI	Panangudi	Panangudi
+107	CNV	Kinattukkadavu	
+108	CII	Chettiyapatti	Chettiyapatti
+109	MES	Madurai East	Madurai East
+110	SUX	Sudiyur	Sudiyur
+111	MVRD	Maivadi Road	
+112	SQD	Sattirakkudi	Sattirakkudi
+113	KYZ	Kizha Puliyur	Kizha Puliyur
+114	MTE	Mettur	Mettur
+115	SER	Samayanallur	Samayanallur
+116	KFC	Kalpattichatram	Kalpattichatram
+117	TAY	Talaiyuthu	Talaiyuthu
+118	VPJ	Vaiyampatti	Valyampatti
+119	MXM	Minatchipuram	
+120	SGLM	Sengulam	Sengulam
+121	TIP	Tattapparai	Tattapparai
+122	KTYR	Kottaiyur	Kottaiyur
+123	PPTR	Pushpattur	
+124	TPC	Tiruppachetti	Tirupati
+125	AWT	Alwar Tirunagri	Alwar Tirunagri
+126	TVN	Tiruppuvanam	Tiruppuvanam
+127	UCP	Uchippuli	Uchippuli
+128	AYR	Ayyalur	Ayyalur
+129	MDKI	Madukarai (Coimbatore)	Madukarai (Coimbatore)
+130	PUG	Punggudi	Punggudi
+131	GDN	Gangaikondan	Gangaikondan
+132	NRK	Naraikkinar	Naraikkinar
+133	GMGM	Gomangalam	
+134	TYT	Tirunelveli Town	Tirunelveli
+135	TMP	Tamaraipadi	Tamaraipadi
+136	KLS	Kolatur	Kolatur
+137	MEKM	Melakkonnakkulam	Melakkonnakkulam
+138	ILA	Silaiman	Silsiman
+139	PEA	Pettai	Pettai
+140	PCO	Palayamkottai	Palayankottai
+141	ETMD	Ettimadai	Ettimadai (Coimbatore)
+142	TTQ	Thathankulam	Thathankulam
+143	KGD	Kalligudi	Kalligudi
+144	TY	Tulukapati	Tulukapati
+145	TYM	Tirumayam	Tirumayam
+146	KIC	Kallidaikurichi	Kallidaikurichi
+147	BJM	Bhagavathipuram	
+148	KCHV	Kachchanvilai	Kachchanvilai
+149	KRMG	Kumaramangalam	Kumaramangalam
+150	RVS	Ravanasamudram	Ravanasamudram
+151	MSB	Chennai Beach	Chennai Beach
+152	GDY	Guindy	Guindy
+153	PZA	Palavantangal	Pazhavanthangal
+154	MBM	Mambalam	Chennai
+155	ABU	Ambattur	Ambattur
+156	STM	St.  Thomas Mount	St Thomas Mount
+157	ANNR	Annanur	Annanur
+158	VLK	Villivakkam	Villivakkam
+159	CMP	Chromepet	Chromepet
+160	TBMS	Tambaram Sanatorium	Tambaram Sanatorium
+161	MJR	Minjur	Minjur
+162	MKK	Kodambakkam	Kodambakam
+163	TI	Tiruninravur	Tiruninravur
+164	VJM	Vyasarpadijiva	Chennai
+165	PV	Pallavaram	Pallavaram
+166	BBQ	Basin Bridge Junction	Basin Bridge
+167	TMVL	Tirumullaivayil	Tirumullaivayil
+168	PAB	Pattabiram	Pattabiram
+169	PCW	Perambur Carriage Works	Perambur Carriage Works
+170	MSC	Chennai Chetpat	Chennai Chetpat
+171	SP	Saidapet	Saidapet
+172	KOK	Korukkupet	Korukkupettai
+173	PEW	Perambur Locomotive Works	Perambur Locomotive Works
+174	AIP	Athipattu	Attippattu
+175	KBT	Kadambattur	Kadambattur
+176	HC	Hindu College	Hindu College
+177	VRI	Vriddhachalam Junction	Vridhachalam
+178	CDM	Chidambaram	Chidambaram
+179	AB	Ambur	Ambur
+180	ALU	Ariyalur	Ariyalur
+181	TDPR	Thirupadiripuliyur	Tirupadripuliyur
+182	SY	Sirkazhi	Sirkazhi
+183	PTJ	Podanur Junction	Podanur
+184	SRGM	Srirangam	Srirangam
+185	DPJ	Dharmapuri	Dharmapuri
+186	TPT	Tirupattur	Tirupattur
+187	BAL	Budalur	Budalur
+188	CUPJ	Cuddalore Port Junction	Cuddalore Port
+189	TVR	Thiruvarur Junction	Thiruvarur
+190	MAP	Morappur	Morappur
+191	SHU	Sholinghur	Sholinghur
+192	PML	Papanasam	Papanasam
+193	NMJ	Nidamangalam Junction	Nidamangalam
+194	BQI	Bommidi	Bommidi
+195	ADT	Aduturai	Aduturai
+196	PGR	Pugalur	Pugalur
+197	CBF	Coimbatore North	Coimbatore North
+198	TRB	Tiruverumbur	Tiruverumbur
+199	KMD	Kodumudi	Kodumudi
+200	KTM	Kutralam	Kutralam
+201	VLT	Valathoor	Valathoor
+202	VDL	Vaithisvarankoil	Vaitheeswarankoil
+203	PRT	Panruti	Panruti
+204	TP	Tiruchchirappalli Fort	Tiruchirapalli Fort
+205	NCR	Nagore	Nagore
+206	AVN	Anavardikhanpettai	Anavardikhanpet
+207	TME	Tuti Melur	Tuti Melur
+208	KLT	Kulitalai	Kulitalai
+209	GOC	Ponmalai Golden Rock	Ponmalai Golden Rock
+210	PEM	Peralam Junction	Peralam
+211	LLI	Lalgudi	Lalgudi
+212	SKPT	Somanayakkanpatti	Somanayakkanpti
+213	GPD	Gummidipundi	Gummidipundi
+214	MPI	Melpatti	Melpatti
+215	PU	Patchur	Patchur
+216	SLY	Samalpatti	Samalpatti
+217	OML	Omalur Junction	Omalur
+218	PNDM	Pennadam	Pennadam
+219	UKL	Uttukuli	Uttukuli
+220	MEH	Melalathur	Melalathur
+221	CBU	Chinna Babu Samudram	Cbabusamudram
+222	TPTN	Tiruchchirappalli Town	Tiruchrpali Twn
+223	CTRE	Chitteri	Chitteri
+224	THL	Tiruvalam	Tiruvalam
+225	PCV	Palakkodu	Palakkodu
+226	PLMD	Pilamedu	Pilamedu (Coimbatore)
+227	TUG	Thalangai	Thalangai
+228	KKPM	Kallakkudi Palanganatham	Kallakkudi Plgh
+229	URL	Unjalur	Unjalur
+230	TLM	Tirusulam	Tirusulam
+231	MPLM	Murthipalayam	Marthipalayam
+232	PYD	Palliyadi	Palliyadi
+233	KZTW	Kuzhithurai West	Kulitturai West
+234	MMH	Mahadanapuram	Mahadanapuram
+235	PLI	Pettaivayatalai	Pettaivayatalai
+236	VLNK	Velankanni	Velankanni
+237	MQ	Mannargudi	Mannargudi
+238	VLR	Vellore Cantonment	Vellore
+239	NMKL	Namakkal	Namakkal
+240	TNM	Tiruvannamalai	Tiruvannamalai
+241	RASP	Rasipuram	Rasipuram
+242	ARV	Arni Road	Arni Road
+243	KXT	Ketti	Ketti
+244	LOV	Lovedale	Lovedale
+245	WEL	Wellington	Wellington
+246	TRK	Tirukkovilur	Tirukoilur
+247	AVK	Aravankadu	Aravankadu
+248	NJT	Nagercoil Town	Nagercoil
+249	SGE	Sankaridurg	Sankaridrug
+250	CHSM	Chinna Salem	Chinna Salem
+251	ATU	Attur	Aattur
+252	PRL	Polur	Polur
+253	SXT	Salem Town	Salem
+254	KDE	Koradacheri	Koradacheri
+255	ATB	Alattambadi	
+256	ATQ	Arantangi	
+257	ONR	Coonoor	Coonoor
+258	AYI	Ayingudi	
+259	MNLI	Manali Halt	
+260	TAM	Tilaivilagam	
+261	APN	Ayodhyapattanam	Ayodhiyapatinam
+262	TNK	Tirunellikaval	
+263	TTP	Tiruturaipundi Junction	
+264	PKT	Pattukottai	
+265	ETP	Ettapur Road	Ettapur Road
+266	PVI	Peravurani	
+267	PYK	Periyakottai	
+268	MONR	Mohanur	Mohanur
+269	MTT	Mutupet	Mutupet
+270	TCT	Tiruchitrambalam	
+271	PALM	Palaiyam	Palaiyam
+272	VMM	Valaramanikkam	
+273	KNPL	Kandanur Puduvayal	
+274	AMM	Atirampattinam	
+275	PON	Ponneri	Ponneri
+276	MARD	Mavur Road	
+277	MAX	Mangudi	
+278	BDY	Buddireddipatti	Buddireddippati
+279	VGE	Valappadi Gate	Vazhapadi
+280	IGU	Irugur Junction	Irugur (Coimbatore)
+281	ANU	Anangur	Anangur
+282	VRPD	Virapandy Road	Virapandy Road
+283	CV	Kaveri	Kaveri
+284	DC	Magudanchavadi	Magudanchavadi
+285	MVPM	Mavelipalaiyam	Mavelipalaiyam
+286	MCRD	Mecheri Road	Mecheri Road
+287	PMB	Pullambadi	Pullambadi
+288	DSPT	Danishpet	Danishpet
+289	DST	Dasampatti	Dasampatti
+290	ACK	Acharapakkam	Acharapakkam
+291	SUU	Sulur Road	Sulur Road (Coimbatore)
+292	NBK	Nungambakkam	Nungambakkam
+293	VEI	Velliyani	Velliyani
+294	VEL	Vellanur	Vellanur
+295	VER	Vellur Halt	Vellur
+296	SPL	Sundaraperumal Kovil	SundaraperumalKoil
+297	VEU	Veppampattu	Veppampattu
+298	KDMD	Kandambakkam	Kandambakkam
+299	VGM	Vinnamangalam	Vinnamangalam
+300	SGM	Solgampatti	Solgampatti
+301	VJ	Virinchipuram	Virinchipuram
+302	NVL	Neyveli	Neyveli
+303	VKM	Venkatesapuram	Venkatesapuram
+304	MYU	Mayanoor	Mayanoor
+305	PDKM	Pedanayakanpalayam	Pedanayakanpalayam
+306	VT	Vellore Town	Vellore
+307	POI	Ponpadi	Ponpadi
+308	KKTI	Kuttakudi	Kuttakudi
+309	VPY	Vyasarpadi	Vyasarpadi
+310	LP	Lalapet	Lalapet
+311	VKP	Varakalpattu	Varakalpattu
+312	KDY	Kettandapatti	Kettandapatti
+313	NEC	Nemilicherry Halt	Nemilicherry
+314	SVR	Sevvapet Road	Sevvapet Road
+315	POTI	Potheri	Potheri
+316	SVUR	Sevur	Sevur
+317	SWI	Swamimalai	Swamimalai
+318	VLDE	Valadi	Valadi
+319	APB	Anuppambattu	Anuppambattu
+320	CJE	Kanchipuram East	Kanchipuram East
+321	APE	Andanappettai	Andanappettai
+322	KMM	Kannamangalam	Kannamangalam
+323	KNB	Kaniyambadi	Kaniyambadi
+324	MTDM	Mettur Dam	Mettur Dam
+325	KEY	Kagankarai	Kagankarai
+326	SXR	Serndanur	Serndanur
+327	VMP	Vallampadugai	Vallampadugai
+328	EDU	Eriodu	Eriodu
+329	VNJ	Vanjipalayam	Tiruppur Vanjipalayam
+330	VRQ	Virarakkiyam	Virarakkiyam
+331	EGT	Egattur Halt	Egattur
+332	VOC	V.O.C Nagar	V.0.c. Nagar
+333	PNTR	Pennathur Halt	Pennathur
+334	VDK	Vadakannikapuram	
+335	ELR	Elavur	Elavur
+336	ENR	Ennore	Ennore
+337	SZV	Sivadi	Sivadi
+338	KGZ	Karunguzhi	Karunguzhi
+339	MASS	Chennai Central Suburban	Chennai
+340	KTTR	Kattur	Kattur
+341	PRKL	Parikkal	Parikkal
+342	VRLR	Virani Alur	Virani Alur
+343	ICG	Ichchangadu	Ichchangadu
+344	VRT	Vriddhachalam Town	Vriddhachalam
+345	CQS	Capper Quarry	Capper Quarry
+346	KU	Kulikarai	Kulikarai
+347	SHI	Singanallur	Singanallur
+348	PRNT	Periyanagathunai	Periyanaga Thunai
+349	IGR	Ingur	Ingur
+350	PRV	Pukkiravari	Pukkirivari
+351	TOM	Tondamanpatti	Tondamanpatti
+352	NMN	Namanasamudram	Namanasamudram
+353	PRWS	Pattabiram West Cabin	Pattabiram West
+354	VTV	Valantaravai	Valantaravai
+355	KXO	Kudikadu	Kudikadu
+356	CTM	Kattangulattur	Kattangulattur
+357	VVN	Vikravandi	Vikravandi
+358	VXM	Vellipalayam	Vellipalayam
+359	VZ	Vijayamangalam	Vijayamangalam
+360	PVM	Pattaravakkam	Pattaravakkam
+361	AYM	Adiyakkamangalam	Adiyakkamangalam
+362	NPKM	Nandiambakkam	Nandiyampakkam
+363	WCN	Wimco Nagar	Wimco Nagar
+364	AZP	Ayyampet	Ayyampet
+365	CVD	Chavadipalaiyam	Chavadipalaiyam
+366	KII	Kille	Kille
+367	KVL	Kizhvelur	Kizhvelur
+368	PTLR	Putlur Halt	Putlur
+369	KVLR	Karuvalli	Karuvalli
+370	WJ	Walajabad	Walajabad
+371	KVN	Kavanur	Kavanur
+372	KVP	Kavaraippettai	Kavaraippettai
+373	PUC	Puduchatiram	Puduchatiram
+374	MCJ	Manjattidal	Thiruchirapalli
+375	WST	Washermanpet	Washermanpet
+376	THX	Tovalai	Tovalai
+377	TIC	Timmachipuram	Timmachipuram
+378	SKK	Sikkal	Sikkal
+379	PVL	Pasupatikovil	Pasupatikovil
+380	ANP	Anandatandavapuram	Anandtandavpur
+381	VRA	Valavanur	Valavanur
+382	KLGN	Kalangani	Kalangani
+383	MLYR	Melnariyapanur	Melnariyapanur
+384	PVN	Puvanur	Puvanur
+385	NTT	Nathapettai	Nathapettai
+386	PWU	Paranur	Paranur
+387	MALR	Mallur	Mallur
+388	MMNK	Maraimalai Nagar	Maraimalai Nagar
+389	MMP	Mambalappattu	Mambalappattu
+390	TKO	Takkolam	Takkolam
+391	PY	Perundurai	Perundurai
+392	PYV	Pazhaya Seevaram	Pazhaya Seevaram
+393	KYV	Koyilvenni	Koyilvenni
+394	AGM	Agaram Sibbandi	Agaram Sibbandi
+395	NNM	Nannilam	Nannilam
+396	SLTH	Sillakkudi	Sillakkudi
+397	JPM	Jiyapuram	Jiyapuram
+398	AIPP	Attipattu Pudu Nagar	Attipattu Pudu Nagar
+399	POM	Punthottam	Punthottam
+400	MTNL	Muttarasanallur	Muttarasanallur
+401	MTL	Mailam	Mailam
+402	KLGM	Kallagam	Kallagam
+403	SMDM	Samudram	Samudram
+404	TLNR	Talanallur	Talanallur
+405	SMDT	Semmandappatti	Semmandappatti
+406	TPE	Tiruchchirappalli Palakkarai	Tiruchirapalli PLKI
+407	MCL	Madimangalam	Madimangalam
+408	AZK	Azhwarkurichi	Azhwarkurichi
+409	MYP	Mundiyampakkam	Mundilyampakkam
+410	VNGL	Vangal	Vangal
+411	TRM	Tirunagesvaram	Tirunagesvaram
+412	OLA	Olakur	Olakur
+413	TMLP	Tirumalpur	Tirumalpur
+414	UMG	Uttangal Mangalam	Uttangal Mangalam
+415	LCR	Lokur	Lokur
+416	SMM	Saliyamangalam	Saliyamangalam
+417	UAM	Udagamandalam	Udagamandalam
+418	PAS	Pasur	Pasur
+419	MDVE	Mahendra Vadi	Mahendra Vadi
+420	TMU	Tirumanthikunam	Tirumanthikunam
+421	NID	Nidur	Neivasal
+422	MP	Melappalaiyam	Melappalaiyam
+423	MPC	Muttampatti	Muttampatti
+424	VLU	Vadalur	Vadalur
+425	AYD	Ayandur	Ayandur
+426	TNGR	Thonganur	Thonganur
+427	OTK	Ottakovil	Ottakovil
+428	TDR	Tiruvidaimarudur	Tiruvidaimarudur
+429	MPK	Chennai Park	Chennai
+430	RDY	Reddipalayam	Redipalayam
+431	NPM	Nellikuppam	Nellikuppan
+432	NPT	Narasingampet	Narasingampet
+433	KMLM	Kelamangalam	Kelamangalam
+434	TNP	Tondiarpet	Tondiarpettai
+435	PALR	Palur	Palur
+436	VVR	Viravanallur	Viravanallur
+437	TNT	Tinnappatti	Tinnappatti
+438	SNDI	Sendurai	Sendurai
+439	TO	Tiruvalangadu	Tiruvalangadu
+440	TPM	Totiyapalayam	Totiyapalayam
+441	SNO	Somanur	Tiruppur Somanur
+442	MKSP	Mukhasa Parur	Mukhasa Parur
+443	OV	Ottivakkam	Otivakkam
+444	PCKM	Pachchakuppam	Pachachakupam
+445	TPP	Toppur	Toppur
+446	PGN	Perugamani	Perugamani
+447	MMCC	Chennai Moore Market Complex	Chennai Moore Market Complex
+448	EL	Elamanur	Elamanur
+449	MN	Minambakkam	Minambakkam
+450	KNNT	Kunnathur	Kunnathur
+451	KARK	Karaikkurichi	Karaikkurichi
+452	PDV	Pandaravadai	Pandaravadai
+453	MSF	Chennai Fort	Chennai Fort
+454	SPAM	Senji Panambakkam	Senji Panambakkam
+455	MPLI	Minnampalli	Minnampalli
+456	MSU	Mosur	Mosur
+457	TT	Titte	Titte
+458	MC	Mandapam Camp	Mandapam Camp
+459	AMT	Ammapet	Ammapet
+460	AND	Andampaliam	Andampaliam
+461	SRVT	Siruvattur	Siruvattur
+462	PRES	Pattabiram E Depot	
+463	BXS	Pichchandarkovil	Pichchandarkovil
+464	TUY	Thiruthuraiyur	Thiruthuraiyur
+465	SEV	Sithalavai	Sithalavai
+466	PEI	Perani	Perani
+467	LTI	Latteri	Latteri
+468	TVNL	Tiruvennainallur	Tiruvennainallur
+469	TVS	Talaivasal	Talaivasal
+470	PO	Parangipettai	Parangipettai
+471	TVT	Tiruvottiyur	Tiruvottiyur
+472	MTUR	Mathur	Mathur
+473	AYN	Aiyanapuram	Aiyanapuram
+474	KOTR	Korattur	Korattur
+475	RPM	Royapuram	Royapuram
+476	KIB	Kizha Ambur	Kizha Ambur
+477	TZD	Tozhuppedu	Tozhuppedu
+478	MUQ	Marudur	Marudur
+479	MAF	Manavur	Manur
+480	KJPD	Kurinjipadi	Kurinjipadi
+481	PTM	Padalam	Padalam
+482	KPPR	Karuppur	Karuppur
+483	CLN	Kollidam	Kollidam
+484	SAMT	Salem Market	Salem Market
+485	KAVM	Kathivakkam	Kathivakkam
+486	RAGM	Rajagambiram	Rajagambiram
+487	UKV	Uttamarkovil	Uttamarkovil
+488	KAY	Karaimadai	Karaimadai
+489	ULU	Ulundurpet	Ulundurpet
+490	AKM	Arambakkam	Arambakkam
+491	DPI	Doddampatti	Doddampatti
+492	UPM	Urappakkam	Urappakkam
+493	TJM	Turinjapuram	Turinjapuram
+494	MBU	Melpattam Bakkam	Melpattam Bakkam
+495	ALK	Alakkudi	Alakkudi
+496	RYC	Rayakkottai	Rayakkottai
+497	MDKM	Madattukulam	
+498	MZU	Marandahalli	Marandahalli
+499	ALP	Alapakam	Alapakam
+500	PLMG	Puliyamangalam	Puliyamangalam
+501	TNI	Tandarai	Tandarai
+502	ANM	Anaimalai Road	
+503	VB	Villiyambakkam	Villiyambakkam
+504	DSM	Darasuram	Darasuram
