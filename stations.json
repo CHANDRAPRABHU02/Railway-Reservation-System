@@ -1,0 +1,2018 @@
+{
+  "01": {
+    "code": "TBM",
+    "stationName": "Tambaram"
+  },
+  "02": {
+    "code": "MS",
+    "stationName": "Chennai Egmore"
+  },
+  "03": {
+    "code": "MAS",
+    "stationName": "Puratchi Thalaivar Dr."
+  },
+  "04": {
+    "code": "KPD",
+    "stationName": "Katpadi"
+  },
+  "05": {
+    "code": "AJJ",
+    "stationName": "Arakkonam"
+  },
+  "06": {
+    "code": "CBE",
+    "stationName": "Coimbatore"
+  },
+  "07": {
+    "code": "CGL",
+    "stationName": "Chengalpattu"
+  },
+  "08": {
+    "code": "MDU",
+    "stationName": "Madurai"
+  },
+  "09": {
+    "code": "JTJ",
+    "stationName": "Jolarpettai"
+  },
+  "10": {
+    "code": "SA",
+    "stationName": "Salem"
+  },
+  "11": {
+    "code": "ED",
+    "stationName": "Erode"
+  },
+  "12": {
+    "code": "TUP",
+    "stationName": "Tiruppur"
+  },
+  "13": {
+    "code": "VM",
+    "stationName": "Villupuram"
+  },
+  "14": {
+    "code": "TPJ",
+    "stationName": "Tiruchirappalli"
+  },
+  "15": {
+    "code": "DG",
+    "stationName": "Dindigul"
+  },
+  "16": {
+    "code": "PER",
+    "stationName": "Perambur"
+  },
+  "17": {
+    "code": "TJ",
+    "stationName": "Thanjavur"
+  },
+  "18": {
+    "code": "TEN",
+    "stationName": "Tirunelveli"
+  },
+  "19": {
+    "code": "NCJ",
+    "stationName": "Nagercoil"
+  },
+  "20": {
+    "code": "TRL",
+    "stationName": "Tiruvallur"
+  },
+  "21": {
+    "code": "AVD",
+    "stationName": "Avadi"
+  },
+  "22": {
+    "code": "PRGL",
+    "stationName": "Perungulattur"
+  },
+  "23": {
+    "code": "RMM",
+    "stationName": "Rameswaram"
+  },
+  "24": {
+    "code": "GI",
+    "stationName": "Guduvancheri"
+  },
+  "25": {
+    "code": "TN",
+    "stationName": "Tuticorin"
+  },
+  "26": {
+    "code": "VPT",
+    "stationName": "Virudunagar"
+  },
+  "27": {
+    "code": "CVP",
+    "stationName": "Kovilpatti"
+  },
+  "28": {
+    "code": "KRR",
+    "stationName": "Karur"
+  },
+  "29": {
+    "code": "MV",
+    "stationName": "Mayiladuturai"
+  },
+  "30": {
+    "code": "KMU",
+    "stationName": "Kumbakonam"
+  },
+  "31": {
+    "code": "TRT",
+    "stationName": "Tiruttani"
+  },
+  "32": {
+    "code": "HSRA",
+    "stationName": "Hosur"
+  },
+  "33": {
+    "code": "RMD",
+    "stationName": "Ramanathapuram"
+  },
+  "34": {
+    "code": "NGT",
+    "stationName": "Nagappattinam"
+  },
+  "35": {
+    "code": "MTP",
+    "stationName": "Mettupalayam"
+  },
+  "36": {
+    "code": "SKL",
+    "stationName": "Singaperumal Koil"
+  },
+  "37": {
+    "code": "CAPE",
+    "stationName": "Kanniyakumari"
+  },
+  "38": {
+    "code": "SRT",
+    "stationName": "Satur"
+  },
+  "39": {
+    "code": "MLMR",
+    "stationName": "Melmaruvathur"
+  },
+  "40": {
+    "code": "KQN",
+    "stationName": "Kodai road"
+  },
+  "41": {
+    "code": "MEJ",
+    "stationName": "Vanchi Maniyachchi"
+  },
+  "42": {
+    "code": "TMV",
+    "stationName": "Tindivanam"
+  },
+  "43": {
+    "code": "VLY",
+    "stationName": "Valliyur"
+  },
+  "44": {
+    "code": "VN",
+    "stationName": "Vaniyambadi"
+  },
+  "45": {
+    "code": "MNM",
+    "stationName": "Manamadurai"
+  },
+  "46": {
+    "code": "WJR",
+    "stationName": "Walajah Road"
+  },
+  "47": {
+    "code": "GYM",
+    "stationName": "Gudiyattam"
+  },
+  "48": {
+    "code": "PMK",
+    "stationName": "Paramakkudi"
+  },
+  "49": {
+    "code": "KZT",
+    "stationName": "Kuzhithurai"
+  },
+  "50": {
+    "code": "KKDI",
+    "stationName": "Karaikkudi"
+  },
+  "51": {
+    "code": "PDKT",
+    "stationName": "Pudukkottai"
+  },
+  "52": {
+    "code": "DKO",
+    "stationName": "Devakottai Road"
+  },
+  "53": {
+    "code": "SVGA",
+    "stationName": "Sivaganga"
+  },
+  "54": {
+    "code": "ERL",
+    "stationName": "Eraniel"
+  },
+  "55": {
+    "code": "TSI",
+    "stationName": "Tenkasi"
+  },
+  "56": {
+    "code": "SNKL",
+    "stationName": "Sankarankovil"
+  },
+  "57": {
+    "code": "RJPM",
+    "stationName": "Rajapalayam"
+  },
+  "58": {
+    "code": "SDN",
+    "stationName": "Sholavandan"
+  },
+  "59": {
+    "code": "KDNL",
+    "stationName": "Kadayanallur"
+  },
+  "60": {
+    "code": "NNN",
+    "stationName": "Nanguneri"
+  },
+  "61": {
+    "code": "SVKS",
+    "stationName": "Sivakasi"
+  },
+  "62": {
+    "code": "SVPR",
+    "stationName": "Srivilliputtur"
+  },
+  "63": {
+    "code": "SCT",
+    "stationName": "Sengottai"
+  },
+  "64": {
+    "code": "TMQ",
+    "stationName": "Tirumangalam"
+  },
+  "65": {
+    "code": "PLNI",
+    "stationName": "Palani"
+  },
+  "66": {
+    "code": "TTL",
+    "stationName": "Tiruttangal"
+  },
+  "67": {
+    "code": "CJ",
+    "stationName": "Kanchipuram"
+  },
+  "68": {
+    "code": "POY",
+    "stationName": "Pollachi"
+  },
+  "69": {
+    "code": "TDN",
+    "stationName": "Tirupparankundram"
+  },
+  "70": {
+    "code": "ASD",
+    "stationName": "Ambasamudram"
+  },
+  "71": {
+    "code": "ODC",
+    "stationName": "Oddanchatram"
+  },
+  "72": {
+    "code": "NZT",
+    "stationName": "Nazareth"
+  },
+  "73": {
+    "code": "VDR",
+    "stationName": "Vandalur"
+  },
+  "74": {
+    "code": "TCN",
+    "stationName": "Tiruchendur"
+  },
+  "75": {
+    "code": "MMM",
+    "stationName": "Mandapam"
+  },
+  "76": {
+    "code": "MCN",
+    "stationName": "Mukundarayapuram"
+  },
+  "77": {
+    "code": "MVN",
+    "stationName": "Milavittan"
+  },
+  "78": {
+    "code": "KDU",
+    "stationName": "Kadambur"
+  },
+  "79": {
+    "code": "MPA",
+    "stationName": "Manaparai"
+  },
+  "80": {
+    "code": "MMK",
+    "stationName": "Madurantakam"
+  },
+  "81": {
+    "code": "CTND",
+    "stationName": "Chettinad"
+  },
+  "82": {
+    "code": "AAY",
+    "stationName": "Aralvaymozhi"
+  },
+  "83": {
+    "code": "UDT",
+    "stationName": ""
+  },
+  "84": {
+    "code": "PBKS",
+    "stationName": "Pambakovil"
+  },
+  "85": {
+    "code": "SMD",
+    "stationName": "Cheranmahadevi"
+  },
+  "86": {
+    "code": "SVV",
+    "stationName": "Srivaikuntam"
+  },
+  "87": {
+    "code": "KZB",
+    "stationName": "Kurumbur"
+  },
+  "88": {
+    "code": "NPK",
+    "stationName": "North Panakudi"
+  },
+  "89": {
+    "code": "KZY",
+    "stationName": "Kayalpattinam"
+  },
+  "90": {
+    "code": "ABI",
+    "stationName": "Ambaturai"
+  },
+  "91": {
+    "code": "API",
+    "stationName": "Akkaraippatti"
+  },
+  "92": {
+    "code": "PBM",
+    "stationName": "Pamban"
+  },
+  "93": {
+    "code": "CHPT",
+    "stationName": "Chatrappatti"
+  },
+  "94": {
+    "code": "NKK",
+    "stationName": "Narikkudi"
+  },
+  "95": {
+    "code": "TCH",
+    "stationName": "Tiruchchuli"
+  },
+  "96": {
+    "code": "SDNR",
+    "stationName": "Seydunganallur"
+  },
+  "97": {
+    "code": "ANY",
+    "stationName": "Arumuganeri"
+  },
+  "98": {
+    "code": "PCM",
+    "stationName": "Pavurchatram"
+  },
+  "99": {
+    "code": "KAL",
+    "stationName": "Kallal"
+  },
+  "100": {
+    "code": "KLPM",
+    "stationName": "Kailasapuram"
+  },
+  "101": {
+    "code": "KKY",
+    "stationName": "Kizhakadaiyam"
+  },
+  "102": {
+    "code": "KON",
+    "stationName": "Kudalnagar"
+  },
+  "103": {
+    "code": "VDM",
+    "stationName": "Vadamadura"
+  },
+  "104": {
+    "code": "VDP",
+    "stationName": "Vadippatti"
+  },
+  "105": {
+    "code": "KRUR",
+    "stationName": "Keeranur"
+  },
+  "106": {
+    "code": "PNGI",
+    "stationName": "Panangudi"
+  },
+  "107": {
+    "code": "CNV",
+    "stationName": ""
+  },
+  "108": {
+    "code": "CII",
+    "stationName": "Chettiyapatti"
+  },
+  "109": {
+    "code": "MES",
+    "stationName": "Madurai East"
+  },
+  "110": {
+    "code": "SUX",
+    "stationName": "Sudiyur"
+  },
+  "111": {
+    "code": "MVRD",
+    "stationName": "Maivadi"
+  },
+  "112": {
+    "code": "SQD",
+    "stationName": "Sattirakkudi"
+  },
+  "113": {
+    "code": "KYZ",
+    "stationName": "Kizha Puliyur"
+  },
+  "114": {
+    "code": "MTE",
+    "stationName": "Mettur"
+  },
+  "115": {
+    "code": "SER",
+    "stationName": "Samayanallur"
+  },
+  "116": {
+    "code": "KFC",
+    "stationName": "Kalpattichatram"
+  },
+  "117": {
+    "code": "TAY",
+    "stationName": "Talaiyuthu"
+  },
+  "118": {
+    "code": "VPJ",
+    "stationName": "Vaiyampatti"
+  },
+  "119": {
+    "code": "MXM",
+    "stationName": ""
+  },
+  "120": {
+    "code": "SGLM",
+    "stationName": "Sengulam"
+  },
+  "121": {
+    "code": "TIP",
+    "stationName": "Tattapparai"
+  },
+  "122": {
+    "code": "KTYR",
+    "stationName": "Kottaiyur"
+  },
+  "123": {
+    "code": "PPTR",
+    "stationName": ""
+  },
+  "124": {
+    "code": "TPC",
+    "stationName": "Tiruppachetti"
+  },
+  "125": {
+    "code": "AWT",
+    "stationName": "Alwar Tirunagri"
+  },
+  "126": {
+    "code": "TVN",
+    "stationName": "Tiruppuvanam"
+  },
+  "127": {
+    "code": "UCP",
+    "stationName": "Uchippuli"
+  },
+  "128": {
+    "code": "AYR",
+    "stationName": "Ayyalur"
+  },
+  "129": {
+    "code": "MDKI",
+    "stationName": "Madukarai (Coimbatore)"
+  },
+  "130": {
+    "code": "PUG",
+    "stationName": "Punggudi"
+  },
+  "131": {
+    "code": "GDN",
+    "stationName": "Gangaikondan"
+  },
+  "132": {
+    "code": "NRK",
+    "stationName": "Naraikkinar"
+  },
+  "133": {
+    "code": "GMGM",
+    "stationName": ""
+  },
+  "134": {
+    "code": "TYT",
+    "stationName": "Tirunelveli"
+  },
+  "135": {
+    "code": "TMP",
+    "stationName": "Tamaraipadi"
+  },
+  "136": {
+    "code": "KLS",
+    "stationName": "Kolatur"
+  },
+  "137": {
+    "code": "MEKM",
+    "stationName": "Melakkonnakkulam"
+  },
+  "138": {
+    "code": "ILA",
+    "stationName": "Silaiman"
+  },
+  "139": {
+    "code": "PEA",
+    "stationName": "Pettai"
+  },
+  "140": {
+    "code": "PCO",
+    "stationName": "Palayamkottai"
+  },
+  "141": {
+    "code": "ETMD",
+    "stationName": "Ettimadai"
+  },
+  "142": {
+    "code": "TTQ",
+    "stationName": "Thathankulam"
+  },
+  "143": {
+    "code": "KGD",
+    "stationName": "Kalligudi"
+  },
+  "144": {
+    "code": "TY",
+    "stationName": "Tulukapati"
+  },
+  "145": {
+    "code": "TYM",
+    "stationName": "Tirumayam"
+  },
+  "146": {
+    "code": "KIC",
+    "stationName": "Kallidaikurichi"
+  },
+  "147": {
+    "code": "BJM",
+    "stationName": ""
+  },
+  "148": {
+    "code": "KCHV",
+    "stationName": "Kachchanvilai"
+  },
+  "149": {
+    "code": "KRMG",
+    "stationName": "Kumaramangalam"
+  },
+  "150": {
+    "code": "RVS",
+    "stationName": "Ravanasamudram"
+  },
+  "151": {
+    "code": "MSB",
+    "stationName": "Chennai Beach"
+  },
+  "152": {
+    "code": "GDY",
+    "stationName": "Guindy"
+  },
+  "153": {
+    "code": "PZA",
+    "stationName": "Palavantangal"
+  },
+  "154": {
+    "code": "MBM",
+    "stationName": "Mambalam"
+  },
+  "155": {
+    "code": "ABU",
+    "stationName": "Ambattur"
+  },
+  "156": {
+    "code": "STM",
+    "stationName": "St. Thomas Mount"
+  },
+  "157": {
+    "code": "ANNR",
+    "stationName": "Annanur"
+  },
+  "158": {
+    "code": "VLK",
+    "stationName": "Villivakkam"
+  },
+  "159": {
+    "code": "CMP",
+    "stationName": "Chromepet"
+  },
+  "160": {
+    "code": "TBMS",
+    "stationName": "Tambaram Sanatorium"
+  },
+  "161": {
+    "code": "MJR",
+    "stationName": "Minjur"
+  },
+  "162": {
+    "code": "MKK",
+    "stationName": "Kodambakkam"
+  },
+  "163": {
+    "code": "TI",
+    "stationName": "Tiruninravur"
+  },
+  "164": {
+    "code": "VJM",
+    "stationName": "Vyasarpadijiva"
+  },
+  "165": {
+    "code": "PV",
+    "stationName": "Pallavaram"
+  },
+  "166": {
+    "code": "BBQ",
+    "stationName": "Basin Bridge"
+  },
+  "167": {
+    "code": "TMVL",
+    "stationName": "Tirumullaivayil"
+  },
+  "168": {
+    "code": "PAB",
+    "stationName": "Pattabiram"
+  },
+  "169": {
+    "code": "PCW",
+    "stationName": "Perambur Carriage Works"
+  },
+  "170": {
+    "code": "MSC",
+    "stationName": "Chennai Chetpat"
+  },
+  "171": {
+    "code": "SP",
+    "stationName": "Saidapet"
+  },
+  "172": {
+    "code": "KOK",
+    "stationName": "Korukkupet"
+  },
+  "173": {
+    "code": "PEW",
+    "stationName": "Perambur Locomotive Works"
+  },
+  "174": {
+    "code": "AIP",
+    "stationName": "Athipattu"
+  },
+  "175": {
+    "code": "KBT",
+    "stationName": "Kadambattur"
+  },
+  "176": {
+    "code": "HC",
+    "stationName": "Hindu College"
+  },
+  "177": {
+    "code": "VRI",
+    "stationName": "Vriddhachalam"
+  },
+  "178": {
+    "code": "CDM",
+    "stationName": "Chidambaram"
+  },
+  "179": {
+    "code": "AB",
+    "stationName": "Ambur"
+  },
+  "180": {
+    "code": "ALU",
+    "stationName": "Ariyalur"
+  },
+  "181": {
+    "code": "TDPR",
+    "stationName": "Thirupadiripuliyur"
+  },
+  "182": {
+    "code": "SY",
+    "stationName": "Sirkazhi"
+  },
+  "183": {
+    "code": "PTJ",
+    "stationName": "Podanur"
+  },
+  "184": {
+    "code": "SRGM",
+    "stationName": "Srirangam"
+  },
+  "185": {
+    "code": "DPJ",
+    "stationName": "Dharmapuri"
+  },
+  "186": {
+    "code": "TPT",
+    "stationName": "Tirupattur"
+  },
+  "187": {
+    "code": "BAL",
+    "stationName": "Budalur"
+  },
+  "188": {
+    "code": "CUPJ",
+    "stationName": "Cuddalore Port"
+  },
+  "189": {
+    "code": "TVR",
+    "stationName": "Thiruvarur"
+  },
+  "190": {
+    "code": "MAP",
+    "stationName": "Morappur"
+  },
+  "191": {
+    "code": "SHU",
+    "stationName": "Sholinghur"
+  },
+  "192": {
+    "code": "PML",
+    "stationName": "Papanasam"
+  },
+  "193": {
+    "code": "NMJ",
+    "stationName": "Nidamangalam"
+  },
+  "194": {
+    "code": "BQI",
+    "stationName": "Bommidi"
+  },
+  "195": {
+    "code": "ADT",
+    "stationName": "Aduturai"
+  },
+  "196": {
+    "code": "PGR",
+    "stationName": "Pugalur"
+  },
+  "197": {
+    "code": "CBF",
+    "stationName": "Coimbatore North"
+  },
+  "198": {
+    "code": "TRB",
+    "stationName": "Tiruverumbur"
+  },
+  "199": {
+    "code": "KMD",
+    "stationName": "Kodumudi"
+  },
+  "200": {
+    "code": "KTM",
+    "stationName": "Kutralam"
+  },
+  "201": {
+    "code": "VLT",
+    "stationName": "Valathoor"
+  },
+  "202": {
+    "code": "VDL",
+    "stationName": "Vaithisvarankoil"
+  },
+  "203": {
+    "code": "PRT",
+    "stationName": "Panruti"
+  },
+  "204": {
+    "code": "TP",
+    "stationName": "Tiruchchirappalli Fort"
+  },
+  "205": {
+    "code": "NCR",
+    "stationName": "Nagore"
+  },
+  "206": {
+    "code": "AVN",
+    "stationName": "Anavardikhanpettai"
+  },
+  "207": {
+    "code": "TME",
+    "stationName": "Tuti Melur"
+  },
+  "208": {
+    "code": "KLT",
+    "stationName": "Kulitalai"
+  },
+  "209": {
+    "code": "GOC",
+    "stationName": "Ponmalai Golden Rock"
+  },
+  "210": {
+    "code": "PEM",
+    "stationName": "Peralam"
+  },
+  "211": {
+    "code": "LLI",
+    "stationName": "Lalgudi"
+  },
+  "212": {
+    "code": "SKPT",
+    "stationName": "Somanayakkanpatti"
+  },
+  "213": {
+    "code": "GPD",
+    "stationName": "Gummidipundi"
+  },
+  "214": {
+    "code": "MPI",
+    "stationName": "Melpatti"
+  },
+  "215": {
+    "code": "PU",
+    "stationName": "Patchur"
+  },
+  "216": {
+    "code": "SLY",
+    "stationName": "Samalpatti"
+  },
+  "217": {
+    "code": "OML",
+    "stationName": "Omalur"
+  },
+  "218": {
+    "code": "PNDM",
+    "stationName": "Pennadam"
+  },
+  "219": {
+    "code": "UKL",
+    "stationName": "Uttukuli"
+  },
+  "220": {
+    "code": "MEH",
+    "stationName": "Melalathur"
+  },
+  "221": {
+    "code": "CBU",
+    "stationName": "Chinna Babu"
+  },
+  "222": {
+    "code": "TPTN",
+    "stationName": "Tiruchchirappalli Town"
+  },
+  "223": {
+    "code": "CTRE",
+    "stationName": "Chitteri"
+  },
+  "224": {
+    "code": "THL",
+    "stationName": "Tiruvalam"
+  },
+  "225": {
+    "code": "PCV",
+    "stationName": "Palakkodu"
+  },
+  "226": {
+    "code": "PLMD",
+    "stationName": "Pilamedu"
+  },
+  "227": {
+    "code": "TUG",
+    "stationName": "Thalangai"
+  },
+  "228": {
+    "code": "KKPM",
+    "stationName": "Kallakkudi Palanganatham"
+  },
+  "229": {
+    "code": "URL",
+    "stationName": "Unjalur"
+  },
+  "230": {
+    "code": "TLM",
+    "stationName": "Tirusulam"
+  },
+  "231": {
+    "code": "MPLM",
+    "stationName": "Murthipalayam"
+  },
+  "232": {
+    "code": "PYD",
+    "stationName": "Palliyadi"
+  },
+  "233": {
+    "code": "KZTW",
+    "stationName": "Kuzhithurai West"
+  },
+  "234": {
+    "code": "MMH",
+    "stationName": "Mahadanapuram"
+  },
+  "235": {
+    "code": "PLI",
+    "stationName": "Pettaivayatalai"
+  },
+  "236": {
+    "code": "VLNK",
+    "stationName": "Velankanni"
+  },
+  "237": {
+    "code": "MQ",
+    "stationName": "Mannargudi"
+  },
+  "238": {
+    "code": "VLR",
+    "stationName": "Vellore"
+  },
+  "239": {
+    "code": "NMKL",
+    "stationName": "Namakkal"
+  },
+  "240": {
+    "code": "TNM",
+    "stationName": "Tiruvannamalai"
+  },
+  "241": {
+    "code": "RASP",
+    "stationName": "Rasipuram"
+  },
+  "242": {
+    "code": "ARV",
+    "stationName": "Arni Road"
+  },
+  "243": {
+    "code": "KXT",
+    "stationName": "Ketti"
+  },
+  "244": {
+    "code": "LOV",
+    "stationName": "Lovedale"
+  },
+  "245": {
+    "code": "WEL",
+    "stationName": "Wellington"
+  },
+  "246": {
+    "code": "TRK",
+    "stationName": "Tirukkovilur"
+  },
+  "247": {
+    "code": "AVK",
+    "stationName": "Aravankadu"
+  },
+  "248": {
+    "code": "NJT",
+    "stationName": "Nagercoil"
+  },
+  "249": {
+    "code": "SGE",
+    "stationName": "Sankaridurg"
+  },
+  "250": {
+    "code": "CHSM",
+    "stationName": "Chinna Salem"
+  },
+  "251": {
+    "code": "ATU",
+    "stationName": "Attur"
+  },
+  "252": {
+    "code": "PRL",
+    "stationName": "Polur"
+  },
+  "253": {
+    "code": "SXT",
+    "stationName": "Salem"
+  },
+  "254": {
+    "code": "KDE",
+    "stationName": "Koradacheri"
+  },
+  "255": {
+    "code": "ATB",
+    "stationName": ""
+  },
+  "256": {
+    "code": "ATQ",
+    "stationName": ""
+  },
+  "257": {
+    "code": "ONR",
+    "stationName": "Coonoor"
+  },
+  "258": {
+    "code": "AYI",
+    "stationName": ""
+  },
+  "259": {
+    "code": "MNLI",
+    "stationName": "Manali"
+  },
+  "260": {
+    "code": "TAM",
+    "stationName": ""
+  },
+  "261": {
+    "code": "APN",
+    "stationName": "Ayodhyapattanam"
+  },
+  "262": {
+    "code": "TNK",
+    "stationName": ""
+  },
+  "263": {
+    "code": "TTP",
+    "stationName": "Tiruturaipundi"
+  },
+  "264": {
+    "code": "PKT",
+    "stationName": ""
+  },
+  "265": {
+    "code": "ETP",
+    "stationName": "Ettapur Road"
+  },
+  "266": {
+    "code": "PVI",
+    "stationName": ""
+  },
+  "267": {
+    "code": "PYK",
+    "stationName": ""
+  },
+  "268": {
+    "code": "MONR",
+    "stationName": "Mohanur"
+  },
+  "269": {
+    "code": "MTT",
+    "stationName": "Mutupet"
+  },
+  "270": {
+    "code": "TCT",
+    "stationName": ""
+  },
+  "271": {
+    "code": "PALM",
+    "stationName": "Palaiyam"
+  },
+  "272": {
+    "code": "VMM",
+    "stationName": ""
+  },
+  "273": {
+    "code": "KNPL",
+    "stationName": "Kandanur"
+  },
+  "274": {
+    "code": "AMM",
+    "stationName": ""
+  },
+  "275": {
+    "code": "PON",
+    "stationName": "Ponneri"
+  },
+  "276": {
+    "code": "MARD",
+    "stationName": "Mavur"
+  },
+  "277": {
+    "code": "MAX",
+    "stationName": ""
+  },
+  "278": {
+    "code": "BDY",
+    "stationName": "Buddireddipatti"
+  },
+  "279": {
+    "code": "VGE",
+    "stationName": "Valappadi"
+  },
+  "280": {
+    "code": "IGU",
+    "stationName": "Irugur Junction"
+  },
+  "281": {
+    "code": "ANU",
+    "stationName": "Anangur"
+  },
+  "282": {
+    "code": "VRPD",
+    "stationName": "Virapandy Road"
+  },
+  "283": {
+    "code": "CV",
+    "stationName": "Kaveri"
+  },
+  "284": {
+    "code": "DC",
+    "stationName": "Magudanchavadi"
+  },
+  "285": {
+    "code": "MVPM",
+    "stationName": "Mavelipalaiyam"
+  },
+  "286": {
+    "code": "MCRD",
+    "stationName": "Mecheri Road"
+  },
+  "287": {
+    "code": "PMB",
+    "stationName": "Pullambadi"
+  },
+  "288": {
+    "code": "DSPT",
+    "stationName": "Danishpet"
+  },
+  "289": {
+    "code": "DST",
+    "stationName": "Dasampatti"
+  },
+  "290": {
+    "code": "ACK",
+    "stationName": "Acharapakkam"
+  },
+  "291": {
+    "code": "SUU",
+    "stationName": "Sulur Road"
+  },
+  "292": {
+    "code": "NBK",
+    "stationName": "Nungambakkam"
+  },
+  "293": {
+    "code": "VEI",
+    "stationName": "Velliyani"
+  },
+  "294": {
+    "code": "VEL",
+    "stationName": "Vellanur"
+  },
+  "295": {
+    "code": "VER",
+    "stationName": "Vellur"
+  },
+  "296": {
+    "code": "SPL",
+    "stationName": "Sundaraperumal"
+  },
+  "297": {
+    "code": "VEU",
+    "stationName": "Veppampattu"
+  },
+  "298": {
+    "code": "KDMD",
+    "stationName": "Kandambakkam"
+  },
+  "299": {
+    "code": "VGM",
+    "stationName": "Vinnamangalam"
+  },
+  "300": {
+    "code": "SGM",
+    "stationName": "Solgampatti"
+  },
+  "301": {
+    "code": "VJ",
+    "stationName": "Virinchipuram"
+  },
+  "302": {
+    "code": "NVL",
+    "stationName": "Neyveli"
+  },
+  "303": {
+    "code": "VKM",
+    "stationName": "Venkatesapuram"
+  },
+  "304": {
+    "code": "MYU",
+    "stationName": "Mayanoor"
+  },
+  "305": {
+    "code": "PDKM",
+    "stationName": "Pedanayakanpalayam"
+  },
+  "306": {
+    "code": "VT",
+    "stationName": "Vellore"
+  },
+  "307": {
+    "code": "POI",
+    "stationName": "Ponpadi"
+  },
+  "308": {
+    "code": "KKTI",
+    "stationName": "Kuttakudi"
+  },
+  "309": {
+    "code": "VPY",
+    "stationName": "Vyasarpadi"
+  },
+  "310": {
+    "code": "LP",
+    "stationName": "Lalapet"
+  },
+  "311": {
+    "code": "VKP",
+    "stationName": "Varakalpattu"
+  },
+  "312": {
+    "code": "KDY",
+    "stationName": "Kettandapatti"
+  },
+  "313": {
+    "code": "NEC",
+    "stationName": "Nemilicherry"
+  },
+  "314": {
+    "code": "SVR",
+    "stationName": "Sevvapet Road"
+  },
+  "315": {
+    "code": "POTI",
+    "stationName": "Potheri"
+  },
+  "316": {
+    "code": "SVUR",
+    "stationName": "Sevur"
+  },
+  "317": {
+    "code": "SWI",
+    "stationName": "Swamimalai"
+  },
+  "318": {
+    "code": "VLDE",
+    "stationName": "Valadi"
+  },
+  "319": {
+    "code": "APB",
+    "stationName": "Anuppambattu"
+  },
+  "320": {
+    "code": "CJE",
+    "stationName": "Kanchipuram East"
+  },
+  "321": {
+    "code": "APE",
+    "stationName": "Andanappettai"
+  },
+  "322": {
+    "code": "KMM",
+    "stationName": "Kannamangalam"
+  },
+  "323": {
+    "code": "KNB",
+    "stationName": "Kaniyambadi"
+  },
+  "324": {
+    "code": "MTDM",
+    "stationName": "Mettur Dam"
+  },
+  "325": {
+    "code": "KEY",
+    "stationName": "Kagankarai"
+  },
+  "326": {
+    "code": "SXR",
+    "stationName": "Serndanur"
+  },
+  "327": {
+    "code": "VMP",
+    "stationName": "Vallampadugai"
+  },
+  "328": {
+    "code": "EDU",
+    "stationName": "Eriodu"
+  },
+  "329": {
+    "code": "VNJ",
+    "stationName": "Vanjipalayam"
+  },
+  "330": {
+    "code": "VRQ",
+    "stationName": "Virarakkiyam"
+  },
+  "331": {
+    "code": "EGT",
+    "stationName": "Egattur"
+  },
+  "332": {
+    "code": "VOC",
+    "stationName": "V.O.C Nagar"
+  },
+  "333": {
+    "code": "PNTR",
+    "stationName": "Pennathur"
+  },
+  "334": {
+    "code": "VDK",
+    "stationName": ""
+  },
+  "335": {
+    "code": "ELR",
+    "stationName": "Elavur"
+  },
+  "336": {
+    "code": "ENR",
+    "stationName": "Ennore"
+  },
+  "337": {
+    "code": "SZV",
+    "stationName": "Sivadi"
+  },
+  "338": {
+    "code": "KGZ",
+    "stationName": "Karunguzhi"
+  },
+  "339": {
+    "code": "MASS",
+    "stationName": "Chennai Central"
+  },
+  "340": {
+    "code": "KTTR",
+    "stationName": "Kattur"
+  },
+  "341": {
+    "code": "PRKL",
+    "stationName": "Parikkal"
+  },
+  "342": {
+    "code": "VRLR",
+    "stationName": "Virani Alur"
+  },
+  "343": {
+    "code": "ICG",
+    "stationName": "Ichchangadu"
+  },
+  "344": {
+    "code": "VRT",
+    "stationName": "Vriddhachalam"
+  },
+  "345": {
+    "code": "CQS",
+    "stationName": "Capper Quarry"
+  },
+  "346": {
+    "code": "KU",
+    "stationName": "Kulikarai"
+  },
+  "347": {
+    "code": "SHI",
+    "stationName": "Singanallur"
+  },
+  "348": {
+    "code": "PRNT",
+    "stationName": "Periyanagathunai"
+  },
+  "349": {
+    "code": "IGR",
+    "stationName": "Ingur"
+  },
+  "350": {
+    "code": "PRV",
+    "stationName": "Pukkiravari"
+  },
+  "351": {
+    "code": "TOM",
+    "stationName": "Tondamanpatti"
+  },
+  "352": {
+    "code": "NMN",
+    "stationName": "Namanasamudram"
+  },
+  "353": {
+    "code": "PRWS",
+    "stationName": "Pattabiram West"
+  },
+  "354": {
+    "code": "VTV",
+    "stationName": "Valantaravai"
+  },
+  "355": {
+    "code": "KXO",
+    "stationName": "Kudikadu"
+  },
+  "356": {
+    "code": "CTM",
+    "stationName": "Kattangulattur"
+  },
+  "357": {
+    "code": "VVN",
+    "stationName": "Vikravandi"
+  },
+  "358": {
+    "code": "VXM",
+    "stationName": "Vellipalayam"
+  },
+  "359": {
+    "code": "VZ",
+    "stationName": "Vijayamangalam"
+  },
+  "360": {
+    "code": "PVM",
+    "stationName": "Pattaravakkam"
+  },
+  "361": {
+    "code": "AYM",
+    "stationName": "Adiyakkamangalam"
+  },
+  "362": {
+    "code": "NPKM",
+    "stationName": "Nandiambakkam"
+  },
+  "363": {
+    "code": "WCN",
+    "stationName": "Wimco Nagar"
+  },
+  "364": {
+    "code": "AZP",
+    "stationName": "Ayyampet"
+  },
+  "365": {
+    "code": "CVD",
+    "stationName": "Chavadipalaiyam"
+  },
+  "366": {
+    "code": "KII",
+    "stationName": "Kille"
+  },
+  "367": {
+    "code": "KVL",
+    "stationName": "Kizhvelur"
+  },
+  "368": {
+    "code": "PTLR",
+    "stationName": "Putlur"
+  },
+  "369": {
+    "code": "KVLR",
+    "stationName": "Karuvalli"
+  },
+  "370": {
+    "code": "WJ",
+    "stationName": "Walajabad"
+  },
+  "371": {
+    "code": "KVN",
+    "stationName": "Kavanur"
+  },
+  "372": {
+    "code": "KVP",
+    "stationName": "Kavaraippettai"
+  },
+  "373": {
+    "code": "PUC",
+    "stationName": "Puduchatiram"
+  },
+  "374": {
+    "code": "MCJ",
+    "stationName": "Manjattidal"
+  },
+  "375": {
+    "code": "WST",
+    "stationName": "Washermanpet"
+  },
+  "376": {
+    "code": "THX",
+    "stationName": "Tovalai"
+  },
+  "377": {
+    "code": "TIC",
+    "stationName": "Timmachipuram"
+  },
+  "378": {
+    "code": "SKK",
+    "stationName": "Sikkal"
+  },
+  "379": {
+    "code": "PVL",
+    "stationName": "Pasupatikovil"
+  },
+  "380": {
+    "code": "ANP",
+    "stationName": "Anandatandavapuram"
+  },
+  "381": {
+    "code": "VRA",
+    "stationName": "Valavanur"
+  },
+  "382": {
+    "code": "KLGN",
+    "stationName": "Kalangani"
+  },
+  "383": {
+    "code": "MLYR",
+    "stationName": "Melnariyapanur"
+  },
+  "384": {
+    "code": "PVN",
+    "stationName": "Puvanur"
+  },
+  "385": {
+    "code": "NTT",
+    "stationName": "Nathapettai"
+  },
+  "386": {
+    "code": "PWU",
+    "stationName": "Paranur"
+  },
+  "387": {
+    "code": "MALR",
+    "stationName": "Mallur"
+  },
+  "388": {
+    "code": "MMNK",
+    "stationName": "Maraimalai Nagar"
+  },
+  "389": {
+    "code": "MMP",
+    "stationName": "Mambalappattu"
+  },
+  "390": {
+    "code": "TKO",
+    "stationName": "Takkolam"
+  },
+  "391": {
+    "code": "PY",
+    "stationName": "Perundurai"
+  },
+  "392": {
+    "code": "PYV",
+    "stationName": "Pazhaya Seevaram"
+  },
+  "393": {
+    "code": "KYV",
+    "stationName": "Koyilvenni"
+  },
+  "394": {
+    "code": "AGM",
+    "stationName": "Agaram Sibbandi"
+  },
+  "395": {
+    "code": "NNM",
+    "stationName": "Nannilam"
+  },
+  "396": {
+    "code": "SLTH",
+    "stationName": "Sillakkudi"
+  },
+  "397": {
+    "code": "JPM",
+    "stationName": "Jiyapuram"
+  },
+  "398": {
+    "code": "AIPP",
+    "stationName": "Attipattu Pudu Nagar"
+  },
+  "399": {
+    "code": "POM",
+    "stationName": "Punthottam"
+  },
+  "400": {
+    "code": "MTNL",
+    "stationName": "Muttarasanallur"
+  },
+  "401": {
+    "code": "MTL",
+    "stationName": "Mailam"
+  },
+  "402": {
+    "code": "KLGM",
+    "stationName": "Kallagam"
+  },
+  "403": {
+    "code": "SMDM",
+    "stationName": "Samudram"
+  },
+  "404": {
+    "code": "TLNR",
+    "stationName": "Talanallur"
+  },
+  "405": {
+    "code": "SMDT",
+    "stationName": "Semmandappatti"
+  },
+  "406": {
+    "code": "TPE",
+    "stationName": "Tiruchchirappalli Palakkarai"
+  },
+  "407": {
+    "code": "MCL",
+    "stationName": "Madimangalam"
+  },
+  "408": {
+    "code": "AZK",
+    "stationName": "Azhwarkurichi"
+  },
+  "409": {
+    "code": "MYP",
+    "stationName": "Mundiyampakkam"
+  },
+  "410": {
+    "code": "VNGL",
+    "stationName": "Vangal"
+  },
+  "411": {
+    "code": "TRM",
+    "stationName": "Tirunagesvaram"
+  },
+  "412": {
+    "code": "OLA",
+    "stationName": "Olakur"
+  },
+  "413": {
+    "code": "TMLP",
+    "stationName": "Tirumalpur"
+  },
+  "414": {
+    "code": "UMG",
+    "stationName": "Uttangal Mangalam"
+  },
+  "415": {
+    "code": "LCR",
+    "stationName": "Lokur"
+  },
+  "416": {
+    "code": "SMM",
+    "stationName": "Saliyamangalam"
+  },
+  "417": {
+    "code": "UAM",
+    "stationName": "Udagamandalam"
+  },
+  "418": {
+    "code": "PAS",
+    "stationName": "Pasur"
+  },
+  "419": {
+    "code": "MDVE",
+    "stationName": "Mahendra Vadi"
+  },
+  "420": {
+    "code": "TMU",
+    "stationName": "Tirumanthikunam"
+  },
+  "421": {
+    "code": "NID",
+    "stationName": "Nidur"
+  },
+  "422": {
+    "code": "MP",
+    "stationName": "Melappalaiyam"
+  },
+  "423": {
+    "code": "MPC",
+    "stationName": "Muttampatti"
+  },
+  "424": {
+    "code": "VLU",
+    "stationName": "Vadalur"
+  },
+  "425": {
+    "code": "AYD",
+    "stationName": "Ayandur"
+  },
+  "426": {
+    "code": "TNGR",
+    "stationName": "Thonganur"
+  },
+  "427": {
+    "code": "OTK",
+    "stationName": "Ottakovil"
+  },
+  "428": {
+    "code": "TDR",
+    "stationName": "Tiruvidaimarudur"
+  },
+  "429": {
+    "code": "MPK",
+    "stationName": "Chennai"
+  },
+  "430": {
+    "code": "RDY",
+    "stationName": "Reddipalayam"
+  },
+  "431": {
+    "code": "NPM",
+    "stationName": "Nellikuppam"
+  },
+  "432": {
+    "code": "NPT",
+    "stationName": "Narasingampet"
+  },
+  "433": {
+    "code": "KMLM",
+    "stationName": "Kelamangalam"
+  },
+  "434": {
+    "code": "TNP",
+    "stationName": "Tondiarpet"
+  },
+  "435": {
+    "code": "PALR",
+    "stationName": "Palur"
+  },
+  "436": {
+    "code": "VVR",
+    "stationName": "Viravanallur"
+  },
+  "437": {
+    "code": "TNT",
+    "stationName": "Tinnappatti"
+  },
+  "438": {
+    "code": "SNDI",
+    "stationName": "Sendurai"
+  },
+  "439": {
+    "code": "TO",
+    "stationName": "Tiruvalangadu"
+  },
+  "440": {
+    "code": "TPM",
+    "stationName": "Totiyapalayam"
+  },
+  "441": {
+    "code": "SNO",
+    "stationName": "Somanur"
+  },
+  "442": {
+    "code": "MKSP",
+    "stationName": "Mukhasa Parur"
+  },
+  "443": {
+    "code": "OV",
+    "stationName": "Ottivakkam"
+  },
+  "444": {
+    "code": "PCKM",
+    "stationName": "Pachchakuppam"
+  },
+  "445": {
+    "code": "TPP",
+    "stationName": "Toppur"
+  },
+  "446": {
+    "code": "PGN",
+    "stationName": "Perugamani"
+  },
+  "447": {
+    "code": "MMCC",
+    "stationName": "Chennai Moore Market Complex"
+  },
+  "448": {
+    "code": "EL",
+    "stationName": "Elamanur"
+  },
+  "449": {
+    "code": "MN",
+    "stationName": "Minambakkam"
+  },
+  "450": {
+    "code": "KNNT",
+    "stationName": "Kunnathur"
+  },
+  "451": {
+    "code": "KARK",
+    "stationName": "Karaikkurichi"
+  },
+  "452": {
+    "code": "PDV",
+    "stationName": "Pandaravadai"
+  },
+  "453": {
+    "code": "MSF",
+    "stationName": "Chennai Fort"
+  },
+  "454": {
+    "code": "SPAM",
+    "stationName": "Senji Panambakkam"
+  },
+  "455": {
+    "code": "MPLI",
+    "stationName": "Minnampalli"
+  },
+  "456": {
+    "code": "MSU",
+    "stationName": "Mosur"
+  },
+  "457": {
+    "code": "TT",
+    "stationName": "Titte"
+  },
+  "458": {
+    "code": "MC",
+    "stationName": "Mandapam Camp"
+  },
+  "459": {
+    "code": "AMT",
+    "stationName": "Ammapet"
+  },
+  "460": {
+    "code": "AND",
+    "stationName": "Andampaliam"
+  },
+  "461": {
+    "code": "SRVT",
+    "stationName": "Siruvattur"
+  },
+  "462": {
+    "code": "PRES",
+    "stationName": "Pattabiram"
+  },
+  "463": {
+    "code": "BXS",
+    "stationName": "Pichchandarkovil"
+  },
+  "464": {
+    "code": "TUY",
+    "stationName": "Thiruthuraiyur"
+  },
+  "465": {
+    "code": "SEV",
+    "stationName": "Sithalavai"
+  },
+  "466": {
+    "code": "PEI",
+    "stationName": "Perani"
+  },
+  "467": {
+    "code": "LTI",
+    "stationName": "Latteri"
+  },
+  "468": {
+    "code": "TVNL",
+    "stationName": "Tiruvennainallur"
+  },
+  "469": {
+    "code": "TVS",
+    "stationName": "Talaivasal"
+  },
+  "470": {
+    "code": "PO",
+    "stationName": "Parangipettai"
+  },
+  "471": {
+    "code": "TVT",
+    "stationName": "Tiruvottiyur"
+  },
+  "472": {
+    "code": "MTUR",
+    "stationName": "Mathur"
+  },
+  "473": {
+    "code": "AYN",
+    "stationName": "Aiyanapuram"
+  },
+  "474": {
+    "code": "KOTR",
+    "stationName": "Korattur"
+  },
+  "475": {
+    "code": "RPM",
+    "stationName": "Royapuram"
+  },
+  "476": {
+    "code": "KIB",
+    "stationName": "Kizha Ambur"
+  },
+  "477": {
+    "code": "TZD",
+    "stationName": "Tozhuppedu"
+  },
+  "478": {
+    "code": "MUQ",
+    "stationName": "Marudur"
+  },
+  "479": {
+    "code": "MAF",
+    "stationName": "Manavur"
+  },
+  "480": {
+    "code": "KJPD",
+    "stationName": "Kurinjipadi"
+  },
+  "481": {
+    "code": "PTM",
+    "stationName": "Padalam"
+  },
+  "482": {
+    "code": "KPPR",
+    "stationName": "Karuppur"
+  },
+  "483": {
+    "code": "CLN",
+    "stationName": "Kollidam"
+  },
+  "484": {
+    "code": "SAMT",
+    "stationName": "Salem Market"
+  },
+  "485": {
+    "code": "KAVM",
+    "stationName": "Kathivakkam"
+  },
+  "486": {
+    "code": "RAGM",
+    "stationName": "Rajagambiram"
+  },
+  "487": {
+    "code": "UKV",
+    "stationName": "Uttamarkovil"
+  },
+  "488": {
+    "code": "KAY",
+    "stationName": "Karaimadai"
+  },
+  "489": {
+    "code": "ULU",
+    "stationName": "Ulundurpet"
+  },
+  "490": {
+    "code": "AKM",
+    "stationName": "Arambakkam"
+  },
+  "491": {
+    "code": "DPI",
+    "stationName": "Doddampatti"
+  },
+  "492": {
+    "code": "UPM",
+    "stationName": "Urappakkam"
+  },
+  "493": {
+    "code": "TJM",
+    "stationName": "Turinjapuram"
+  },
+  "494": {
+    "code": "MBU",
+    "stationName": "Melpattam Bakkam"
+  },
+  "495": {
+    "code": "ALK",
+    "stationName": "Alakkudi"
+  },
+  "496": {
+    "code": "RYC",
+    "stationName": "Rayakkottai"
+  },
+  "497": {
+    "code": "MDKM",
+    "stationName": ""
+  },
+  "498": {
+    "code": "MZU",
+    "stationName": "Marandahalli"
+  },
+  "499": {
+    "code": "ALP",
+    "stationName": "Alapakam"
+  },
+  "500": {
+    "code": "PLMG",
+    "stationName": "Puliyamangalam"
+  },
+  "501": {
+    "code": "TNI",
+    "stationName": "Tandarai"
+  },
+  "502": {
+    "code": "ANM",
+    "stationName": "Anaimalai"
+  },
+  "503": {
+    "code": "VB",
+    "stationName": "Villiyambakkam"
+  },
+  "504": {
+    "code": "DSM",
+    "stationName": "Darasuram"
+  }
+}
