@@ -1,0 +1,17 @@
+#closeButtonForInput {
+  margin: 0%;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: rgb(95, 4, 241);
+  position: relative;
+  cursor: pointer;
+}
+#closeButtonForInput:hover {
+}
+
+#AddButton {
+  padding: 1px;
+  background-color: rgb(189, 71, 3);
+  border: 1;
+}

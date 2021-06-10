@@ -1,5 +1,9 @@
 import React, { Component } from "react";
 import axios from "axios";
+import {
+  NotificationManager,
+  NotificationContainer,
+} from "react-notifications";
 
 import "./navbarStyle.css";
 
@@ -9,6 +13,22 @@ class LoginPage extends Component {
     e.preventDefault();
     // console.log(e.target[0].value);
     // console.log(e.target[1].value);
+    const data = {
+      email: e.target[0].value,
+      password: e.target[1].value,
+    };
+    console.log(data);
+    axios.post("http://localhost:5000/user/validate", data).then((e) => {
+      console.log(e.data);
+      if (e.data === "notValid") {
+        NotificationManager.error(
+          "If you forgot your password use 'forgot password'",
+          "Invalid Login"
+        );
+      } else {
+        //Success
+      }
+    });
   }
   render() {
     return (
@@ -37,6 +57,7 @@ class LoginPage extends Component {
                 id="floatingInput"
                 placeholder="name@example.com"
                 name="email"
+                autoComplete="email"
               />
               <label for="floatingInput">Email address</label>
             </div>
@@ -47,6 +68,7 @@ class LoginPage extends Component {
                 id="floatingPassword"
                 placeholder="Password"
                 name="password"
+                autoComplete="password"
               />
               <label for="floatingPassword">Password</label>
             </div>
@@ -62,6 +84,7 @@ class LoginPage extends Component {
             <p className="mt-5 mb-3 text-muted">&copy; 2017–2021</p>
           </form>
         </main>
+        <NotificationContainer />
       </div>
     );
   }

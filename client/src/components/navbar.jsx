@@ -1,36 +1,42 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
+      <nav className="navbar navbar-dark bg-dark navbar-expand-md">
         <Link to="/" className="navbar-brand">
-          ExcerTracker
+          Railway Reservation System
         </Link>
         <div
-          className="collpase navbar-collapse mr-auto"
+          className="collpase navbar-collapse"
           // style={{ float: "right" }}
         >
           <ul className="navbar-nav mr-auto">
             <li className="navbar-item">
-              <Link to="/" className="nav-link">
-                Exercises
+              <Link to="/reserve" className="nav-link">
+                Reserve
               </Link>
             </li>
             <li className="navbar-item">
-              <Link to="/create" className="nav-link">
-                Create Exercise Log
+              <Link to="/login" className="nav-link">
+                Login
               </Link>
             </li>
             <li className="navbar-item">
-              <Link to="/user" className="nav-link">
-                Create User
+              <Link to="/createAccount" className="nav-link">
+                createAccount
               </Link>
             </li>
           </ul>
         </div>
-        <div className="navbar-brand">hi hello</div>
+        <span className="nav-text padding-0">
+          <Link to="/profile" className="nav-link padding-0">
+            {localStorage.getItem("name")}
+          </Link>
+        </span>
+        <div className="nav-item ">hi</div>
       </nav>
     );
   }

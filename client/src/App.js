@@ -2,10 +2,13 @@ import React, { Component } from "react";
 import { Button, Nav, Form, FormControl, Container } from "react-bootstrap";
 
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import { NotificationContainer } from "react-notifications";
 
 import Homepage from "./components/homePage";
 import Navbar from "./components/navbar";
 import LoginPage from "./components/loginPage";
+import CreateAccount from "./components/createAccount";
+import Reservation from "./components/reservation";
 
 class App extends Component {
   state = {};
@@ -14,9 +17,14 @@ class App extends Component {
       <Router>
         <div className="container">
           <Navbar />
+        </div>
+        <div className="container-fluid ">
           <br />
           <Route path="/" exact component={Homepage} />
           <Route path="/login" exact component={LoginPage} />
+          <Route path="/createAccount" exact component={CreateAccount} />
+          <Route path="/reserve" exact component={Reservation} />
+          <NotificationContainer />
         </div>
       </Router>
     );
