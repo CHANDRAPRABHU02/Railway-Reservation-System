@@ -208,3 +208,25 @@
   text-align: center;
   color: #888;
 }
+
+#reservationMai {
+  display: block;
+  position: absolute;
+  top: 0px;
+  background-image: url("./pictures/train1.jpg");
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* DatePicker adjusting the width */
+.react-datepicker__input-container > input {
+  width: 300px;
+  padding-left: 14px;
+  height: 35px;
+  border: none;
+}
