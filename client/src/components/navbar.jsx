@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 export default class Navbar extends Component {
   render() {
@@ -10,6 +9,7 @@ export default class Navbar extends Component {
           Railway Reservation System
         </Link>
         <div
+          id="myNavbar"
           className="collpase navbar-collapse"
           // style={{ float: "right" }}
         >
@@ -36,7 +36,14 @@ export default class Navbar extends Component {
             {localStorage.getItem("name")}
           </Link>
         </span>
-        <div className="nav-item ">hi</div>
+        <button
+          type="button"
+          class="navbar-toggler"
+          data-toggle="collapse"
+          data-target="#myNavbar"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
       </nav>
     );
   }

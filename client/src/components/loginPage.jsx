@@ -8,8 +8,10 @@ import {
 import "./navbarStyle.css";
 
 class LoginPage extends Component {
-  state = {};
-  onSubmit(e) {
+  state = {
+    URL: "http://localhost:5000",
+  };
+  onSubmit = (e) => {
     e.preventDefault();
     // console.log(e.target[0].value);
     // console.log(e.target[1].value);
@@ -18,18 +20,33 @@ class LoginPage extends Component {
       password: e.target[1].value,
     };
     console.log(data);
-    axios.post("http://localhost:5000/user/validate", data).then((e) => {
+    axios.post(this.state.URL + "/user/validate", data).then((e) => {
       console.log(e.data);
       if (e.data === "notValid") {
         NotificationManager.error(
           "If you forgot your password use 'forgot password'",
           "Invalid Login"
         );
-      } else {
+      } else if (e.data.length === 24) {
         //Success
+        NotificationManager.success("Login Successful");
+        console.log("Fetch");
+        axios
+          .post(this.state.URL + "/user/getFullDetails", { _id: e.data })
+          .then((res) => {
+            console.log(res.data);
+            localStorage.setItem("name", res.data.name);
+            localStorage.setItem("email", res.data.email);
+            localStorage.setItem("id", e.data);
+            localStorage.setItem("balance", res.data.balance);
+            this.props.history.replace("/");
+            window.location.reload(false);
+          });
+      } else {
+        NotificationManager.warning("Error");
       }
     });
-  }
+  };
   render() {
     return (
       <div className="text-center customstyle-navbar">
@@ -81,7 +98,13 @@ class LoginPage extends Component {
             <button className="w-100 btn btn-lg btn-primary" type="submit">
               Sign in
             </button>
-            <p className="mt-5 mb-3 text-muted">&copy; 2017–2021</p>
+            <a
+              href=""
+              onClick={(e) => this.props.history.replace("/createAccount")}
+            >
+              Create Account
+            </a>
+            <p className="mt-5 mb-3 text-muted">&copy; RRS:2017–2021</p>
           </form>
         </main>
         <NotificationContainer />

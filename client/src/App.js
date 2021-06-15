@@ -9,6 +9,8 @@ import Navbar from "./components/navbar";
 import LoginPage from "./components/loginPage";
 import CreateAccount from "./components/createAccount";
 import Reservation from "./components/reservation";
+import Profile from "./components/profile";
+import Recent from "./components/recent";
 
 class App extends Component {
   state = {};
@@ -24,6 +26,8 @@ class App extends Component {
           <Route path="/login" exact component={LoginPage} />
           <Route path="/createAccount" exact component={CreateAccount} />
           <Route path="/reserve" exact component={Reservation} />
+          <Route path="/profile" exact component={Profile} />
+          <Route path="/recent" exact component={Recent} />
           <NotificationContainer />
         </div>
       </Router>

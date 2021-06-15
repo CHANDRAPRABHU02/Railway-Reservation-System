@@ -95,7 +95,7 @@ class CreateAccount extends Component {
             <button className="btn btn-lg btn-primary" type="submit">
               Create Account
             </button>
-            <p className="mt-5 mb-3 text-muted">&copy; 2017–2021</p>
+            <p className="mt-5 mb-3 text-muted">&copy; RRS:2017–2021</p>
           </form>
         </main>
         <NotificationContainer />
